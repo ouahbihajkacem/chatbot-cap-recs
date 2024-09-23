@@ -1,0 +1,232 @@
+﻿Je ne comprends pas votre demande ?::Vous êtes redevable de la somme de ,,,,, £ pour ,,,,,
+A qui dois-je de l'argent ?::Vous êtes redevable de la somme de ,,,,, £ pour ,,,,,
+A quoi correspondent les sommes réclamées ? ::Vous êtes redevable de la somme de ,,,,, £ pour ,,,,,
+Pourriez vous m'envoyer la facture s'il vous plait ?::Veuillez nous adresser un mail de demande auprès de votre gestionnaire en entreprise ou en appelant le (+33)0362260142 ou bien (+33)0362260143.
+Qui êtes-vous ?::Je suis un assistant virtuel de CAP Recouvrement mandaté par votre créancier ou créditeur, là pour vous aider avec vos questions.
+Est-ce que vous êtes une arnaque ?::Non, je suis un assistant virtuel de CAP Recouvrement mandaté par votre créancier ou créditeur.
+Est ce une arnaque ?::Non, je suis un assistant virtuel de CAP Recouvrement mandaté par votre créancier ou créditeur.
+Qui est le créancier ?::Mettre le nom commercial du client orange bleue.
+De quelle salle de sport vous parlez ?::Mettre le nom commercial du client orange bleue.
+Merci de me contacter au téléphone XXXXXXXXX !::Je vous invite à nous contacter au téléphone de votre gestionnaire en entreprise CAP Recouvrement ou en appelant le (+33)0362260142 ou bien (+33)0362260143
+Je n'ai pas reçu vos courriers !::Merci de nous confirmer votre adresse mail pour vérification.
+J'ai rien reçu de votre part !::Merci de nous confirmer votre adresse mail pour vérification.
+Pas de courriers s'il vous plait !::Merci de nous confirmer votre adresse mail pour vérification.
+Pourquoi dois-je payer le contrat alors que je ne profite pas de la prestation ?::Votre contrat vous lie à la salle jusqu'à résiliation. Merci de relire vos conditions générales au dos du contrat.
+Les frais sont-ils obligatoires ?::Oui, les frais sont obligatoires, ils sont dus suite au retard de paiement.
+Dois-je payer les frais ?::Oui, les frais sont obligatoires, ils sont dus suite au retard de paiement.
+Pourquoi je paye les frais ?::Oui, les frais sont obligatoires, ils sont dus suite au retard de paiement.
+Je voudrais un échéancier !::Merci de nous contacter au téléphone de votre gestionnaire en entreprise CAP Recouvrement ou en appelant le (+33)0362260142 ou bien (+33)0362260143 pour définir le mode de paiement, la date et le montant.
+Comment mettre en place un échéancier ?::Merci de nous contacter au téléphone de votre gestionnaire en entreprise CAP Recouvrement ou en appelant le (+33)0362260142 ou bien (+33)0362260143 pour définir le mode de paiement, la date et le montant.
+Puis-je payer en plusieurs fois ?::Merci de nous contacter au téléphone de votre gestionnaire de dossier en entreprise ou en appelant le (+33)0362260142 ou bien (+33)0362260143 pour définir le mode de paiement, la date et le montant.
+C'est possible de payer en plusieurs tranches ?::Merci de nous contacter au téléphone de votre gestionnaire de dossier en entreprise ou en appelant le (+33)0362260142 ou bien (+33)0362260143 pour définir le mode de paiement, la date et le montant.
+Comment puis-je payer s'il vous plait ?::Merci de nous contacter au téléphone de votre gestionnaire en entreprise CAP Recouvrement ou en appelant le (+33)0362260142 ou bien (+33)0362260143 pour définir le mode de paiement, la date et le montant. 
+Puis-je reculer l'échéance de ce mois ?::Nous comprenons que des circonstances imprévues peuvent survenir donc merci de nous contacter pour vous expliquer sur votre problème financier auprès de votre gestionnaire de dossier à son téléphone ou en appelant le (+33)0362260142.
+Je ne parviens pas à payer sur internet. Comment puis-je faire ?::Merci de nous contacter au téléphone de votre gestionnaire de dossier pour plus d'informations.
+Le paiement en ligne ne marche pas !::Merci de nous contacter au téléphone de votre gestionnaire de dossier pour plus d'informations.
+Ou dois-je payer et comment ?::Merci de nous contacter au téléphone de votre gestionnaire de dossier pour plus d'informations.
+Puis-je payer mon créancier directement ?::Oui, vous pouvez payer votre créancier sans omettre les frais avec un justificatif de votre paiement par mail chez CAP Recouvrement. 
+J'ai resilié !::Merci de nous faire suivre vos justificatifs de votre résiliation par mail.
+J'ai déjà payé !::Merci de nous faire suivre un justificatif de votre paiement par mail chez CAP Recouvrement.
+Aucune réponse aux mails!::Merci d'adresser une copie de vos mails chez CAP recouvrement par mail.
+Je suis couvert par la CMU !::Merci de nous faire le justificatif valable à la date des soins attestation CMU ou CPAM.
+Je suis pris en charge 100 % !::Merci de nous faire le justificatif valable à la date des soins attestation CMU ou CPAM.
+Je n'ai pas fait d'analyse !::Il convient de prendre contact avec votre créancier pour précision sur l'analyse et revenir vers CAP Recouvrement pour règlement.
+Je vais plus à la salle!::Votre contrat vous lie à la salle jusqu'à résiliation. Merci de relire vos conditions générales au dos du contrat.
+J'ai déménagé!::Votre contrat vous lie à la salle jusqu'à résiliation. Merci de relire vos conditions générales au dos du contrat.
+Je suis malade !::Votre contrat vous lie à la salle jusqu'à résiliation. Merci de relire vos conditions générales au dos du contrat.
+Je suis en BDF (Banque De France)!::Merci de nous faire suivre un justificatif par mail chez CAP Recouvrement. 
+Débiteur décédé !::Merci de nous faire suivre l'avis de décès et éventuellement les coordonnées du notaire chargé de la succession.
+I don't understand your request?::You owe ,,,,, the sum of ,,,,,
+Who do I owe money to?::You owe ,,,,, the sum of ,,,,,
+What do the sums claimed correspond to?::You owe ,,,,, the sum of ,,,,,
+Could you please send me the invoice?::Please send us an email request to your corporate account manager or call (+33)0362260142 or (+33)0362260143.
+Could you please send me the bill?::Please send us an email request to your corporate account manager or call (+33)0362260142 or (+33)0362260143.
+Who are you?::CAP Recouvrement mandated by your creditor.
+Are you a scammer?::CAP Recouvrement mandated by your creditor.
+Are you a scam?::CAP Recouvrement mandated by your creditor.
+Who is the creditor?::Mettre le nom commercial du client orange bleue.
+Which gym are you talking about?::Mettre le nom commercial du client orange bleue.
+Please contact me by phone XXXXXXXXX !::I invite you to contact us on the telephone from your CAP Recouvrement corporate account manager or by calling (+33)0362260142 or (+33)0362260143.
+I haven't received your letters!::Please confirm your e-mail address for verification.
+I haven't received anything from you!::Please confirm your e-mail address for verification.
+No mails please!::Please confirm your e-mail address for verification.
+Why do I have to pay for the contract when I'm not using the service?::Your contract binds you to the venue until it is terminated. Please reread the general terms and conditions on the back of the contract.
+Are fees obligatory?::Yes, fees are due for late payment.
+Do I have to pay the fee?::Of course, fees are due for late payment.
+Why are the fees compulsory?::In fact, the fee is due for late payment.
+I'd like a payment schedule!::Please contact your CAP Recouvrement company file manager or call (+33)0362260142 or (+33)0362260143 to define the payment method, date and amount.
+How do I set up a payment schedule?::Please contact us on the telephone from your CAP Recouvrement company manager or by calling (+33)0362260142 or (+33)0362260143 to define the payment method, date and amount.
+Can I pay in several instalments?::Please contact us on the phone with your corporate account manager or by calling (+33)0362260142 or (+33)0362260143 to define the payment method, date and amount.
+Is it possible to pay in several instalments?::Please contact us on the phone of your corporate account manager or by calling (+33)0362260142 or (+33)0362260143 to define the payment method, date and amount.
+How can I pay please?::Please contact us on the phone from your CAP Recouvrement corporate account manager or by calling (+33)0362260142 or (+33)0362260143 to define the payment method, date and amount. 
+Can I postpone this month's due date?::Please contact us to explain your financial problem to your case manager on their telephone or by calling (+33)0362260142 or (+33)0362260143.
+I can't pay online. What can I do?::Please contact your account manager for more information.
+Online payment doesn't work!::Please call your account manager for more information.
+Where do I pay and how?::Please contact us on your case manager's phone for more information.
+Can I pay my creditor directly?::Yes, you can pay your creditor directly with proof of payment by e-mail to CAP Recouvrement. 
+I have cancelled my subscription!::Please send us your proof of cancellation by e-mail.
+I've already paid!::Please send us proof of payment by e-mail to CAP Recouvrement.
+No reply to my emails!::Please send a copy of your e-mails to CAP Recouvrement by e-mail.
+I am covered by CMU!::Please provide us with a CMU or CPAM certificate valid on the date of treatment.
+I am covered at 100%!::Please provide us with a CMU or CPAM certificate valid on the date of treatment.
+I haven't had an analysis!::You should contact your creditor to clarify the analysis and return to CAP Recouvrement for payment.
+I don't go to the gym any more!::Your contract binds you to the venue until it is terminated. Please reread the general terms and conditions on the back of your contract.
+I've moved!::Your contract binds you to the hall until it is terminated. Please reread the general terms and conditions on the back of your contract.
+I'm ill!::Your contract binds you to the venue until it is terminated. Please reread the general terms and conditions on the back of the contract.
+I'm in BDF (Banque de France)!::Please send us proof by e-mail to CAP Recouvrement. 
+Deceased debtor!::Please forward us the death notice and, if applicable, the contact details of the notary in charge of the estate.
+Qui est mon gestionnaire de dossier ?::Votre gestionnaire de dossier est ,,,,,. Vous pouvez le joindre au ,,,,,.
+Qui est mon gestionnaire en entreprise ?::Votre gestionnaire de dossier est ,,,,,. Vous pouvez le joindre au ,,,,,.
+Qui est mon gestionnaire en entreprise CAP Recouvrement ?::Votre gestionnaire de dossier est ,,,,,. Vous pouvez le joindre au ,,,,,.
+Who is my corporate account manager ?::Your account manager is ,,,,,. You can reach him by calling ,,,,,.
+Who can I call to pay ?::Your account manager is ,,,,,. You can reach him by calling ,,,,,.
+What is the phone number of my account manager ?::Your account manager's phone number is ,,,,,.
+How can I contact my corporate account manager ?::Your account manager's phone number is ,,,,,.
+Qui puis-je appeler pour payer ?::Votre gestionnaire de dossier est ,,,,,. Vous pouvez le joindre au ,,,,,.
+Quel est le numéro de téléphone de mon gestionnaire de compte ?::Le numéro de téléphone de votre gestionnaire de compte est ,,,,,.
+Comment puis-je contacter mon gestionnaire de compte ?::Le numéro de téléphone de votre gestionnaire de compte est ,,,,,.
+Bonjour::Bonjour ! Comment puis-je vous aider aujourd'hui ?
+Hello::Hello! How can I assist you today?
+Salut::Salut ! Comment puis-je vous aider aujourd'hui ?
+Hi::Hi! How can I assist you today?
+Bonsoir::Bonsoir ! Comment puis-je vous aider ce soir ?
+Good evening::Good evening! How can I assist you tonight?
+Salut toi::Salut toi ! Comment puis-je vous aider aujourd'hui ?
+Hey::Hey! How can I assist you today?
+Coucou::Coucou ! Comment puis-je vous aider aujourd'hui ?
+Au revoir::Au revoir ! Passez une bonne journée !
+Goodbye::Goodbye! Have a great day!
+Bonne journée::Merci ! Vous aussi !
+Bonne soirée::Bonne soirée ! N'hésitez pas à revenir si vous avez d'autres questions.
+Good night::Good night! Feel free to come back if you have more questions.
+Merci::De rien ! De rien ! Je suis heureux de pouvoir vous aider.
+Thanks::You're welcome! How can I assist you further?
+C'est quoi CAP Recouvrement ?::Spécialiste du recouvrement de créances et de la gestion du poste clients, le Groupe CAP Recouvrement est présent sur l'intégralité de la chaîne de valeur du poste Clients des entreprises.
+Vous souhaitez optimiser votre poste Clients et recouvrer vos impayés, nous pouvons vous aider.
+Comment puis-je vous contacter ?::Vous pouvez nous contacter par téléphone au (+33)0362260142 ou par mail à l'adresse contact@caprecouvrement.fr.
+Quels services proposez vous ?::Nous proposons des services de gestion et de recouvrement de créances, ainsi que des conseils en matière de gestion financière.
+Puis-je payer en ligne ?::Oui, vous pouvez effectuer un paiement en ligne en utilisant notre portail sécurisé.
+Avez-vous une adresse e-mail ?::Oui, vous pouvez nous joindre par e-mail à l'adresse contact@caprecouvrement.fr. Un de nos gestionnaires va revenir vers vous dans les plus brefs délais.
+Quel est votre numéro de téléphone ?::Nous possédons deux numéros de téléphone qui sont les suivants: (+33)0362260142 et (+33)0362260143.
+Où êtes-vous situés ?::Nous sommes situés à Marcq-en-Barœul, Lille, France, mais nous offrons nos services à des clients dans toute la France et à l'international.
+Quelles sont vos heures d'ouverture ?::Nous sommes ouverts du lundi au vendredi, de 9h à 18h.
+Offrez vous des plans de paiement ?::Oui, nous pouvons vous aider à mettre en place un plan de paiement adapté à vos besoins.
+Puis-je parler à un gestionnaire ?::Bien sûr, je peux vous mettre en contact avec l'un de nos gestionnaires. Veuillez appelez un des 2 numéro de téléphone suivants (+33)0362260142 ou bien (+33)0362260143.
+Comment fonctionne le recouvrement de créances ?::Le recouvrement de créances implique des actions pour récupérer les paiements en retard auprès des débiteurs, souvent par le biais de communications et de négociations.
+Quels documents dois-je fournir pour le recouvrement ?::Vous devez fournir toutes les factures impayées, les contrats signés et toute correspondance pertinente avec le débiteur.
+Avez-vous des avis clients ?::Oui, vous pouvez consulter les avis de nos clients sur notre site web.
+Comment puis-je mettre à jour mes informations de paiement ?::Vous pouvez mettre à jour vos informations de paiement en nous envoyant un e-mail à paiements@caprecouvrement.fr ou en nous appelant au (+33)0362260142.
+Comment accéder à mon compte en ligne ?::Vous pouvez accéder à votre compte en ligne en vous connectant à notre portail client à l'adresse www.caprecouvrement.fr/portail. 
+Comment puis-je vous contacter ?::Vous pouvez nous contacter par téléphone au (+33)0362260142 ou par e-mail à contact@caprecouvrement.fr. Nous sommes également disponibles via notre portail client en ligne.
+Quels sont vos délais de traitement des paiements ?::Les paiements sont généralement traités dans un délai de 1 à 3 jours ouvrables.
+Quels sont vos modes de paiement acceptés ?::Nous acceptons les virements bancaires, les paiements par carte de crédit, et les paiements en ligne via notre portail sécurisé.
+Puis-je mettre en place un plan de paiement ?::Oui, nous pouvons vous aider à mettre en place un plan de paiement adapté à vos besoins. Veuillez contacter votre gestionnaire de dossier pour discuter des options disponibles.
+Quels sont vos horaires d'ouverture ?::Nos horaires d'ouverture sont du lundi au vendredi, de 9h à 18h.
+Comment puis-je payer ma dette ?::Vous pouvez payer votre dette en ligne via notre portail sécurisé, par virement bancaire, ou par carte de crédit. Pour toute question spécifique, veuillez contacter votre gestionnaire de compte.
+Où êtes-vous situés ?::Nous sommes situés à Marcq-en-Barœul, Lille, France, mais nous offrons nos services à des clients dans toute la France et à l'international.
+Comment payer ma dette?::Vous pouvez payer votre dette en ligne via notre portail sécurisé, par virement bancaire, ou par carte de crédit. Pour toute question spécifique, veuillez contacter votre gestionnaire de compte.
+Je peux payer en ligne ?::Oui, vous pouvez effectuer un paiement en ligne en utilisant notre portail sécurisé.
+C'est capté::D'accord très bien, Comment puis-je vous aider d'autre ?
+C'est noté::D'accord très bien, Comment puis-je vous aider d'autre ?
+J'ai compris::Très bien, Comment puis-je vous aider d'autre ?
+Rien::Ok, je suis là si vous avez besoin de quoi que ce soit d'autre.
+Nothing::Ok, I'm here if you need anything else.
+Ça va ?::Ça va bien, merci ! Et vous ?
+Comment ça va ?::Je vais bien, merci ! Comment puis-je vous aider ?
+Comment puis-je vous aider ?::Vous pouvez me poser n'importe quelle question ou demander de l'aide avec quelque chose de spécifique.
+Quoi de neuf ?::Pas grand-chose, juste prêt à vous aider. Et vous ?
+Quelle heure est-il ?::Je suis désolé, je ne peux pas vérifier l'heure actuelle. Pouvez-vous vérifier sur votre appareil ?
+How are you?::I'm good, thank you! How can I assist you?
+How's it going?::It's going well, thank you! How can I help you today?
+What's up?::Not much, just ready to help you. How about you?
+What time is it?::I'm sorry, I can't check the current time. Can you check on your device?
+How can I help you?::You can ask me any question or request help with something specific.
+Bienvenue::Merci ! Comment puis-je vous aider aujourd'hui ?
+À plus tard::À plus tard ! Prenez soin de vous.
+À demain::À demain ! Passez une bonne journée!
+À bientôt::À bientôt ! N'hésitez pas à revenir si vous avez d'autres questions.
+Enchanté::Enchanté également ! Comment puis-je vous aider ?
+D'accord::Très bien, Comment puis-je vous aider davantage ?
+Super::Super ! Comment puis-je vous aider davantage ?
+Parfait::Parfait ! Y a-t-il autre chose avec laquelle je peux vous aider ?
+Excusez-moi::Oui, comment puis-je vous aider ?
+Désolé::Ce n'est pas grave. Comment puis-je vous aider ?
+Attendez::D'accord, je suis là quand vous êtes prêt.
+Welcome::Thank you! How can I assist you today?
+See you later::See you later! Take care.
+See you tomorrow::See you tomorrow! Have a great day.
+See you soon::See you soon! Feel free to come back if you have more questions.
+Nice to meet you::Nice to meet you too! How can I assist you?
+Alright::Alright, what can I do for you?
+Great::Great! How can I help you further?
+Perfect::Perfect! Is there anything else I can assist you with?
+Excuse me::Yes, how can I help you?
+Sorry::It's okay. How can I assist you?
+Hold on::Alright, I'm here when you're ready.
+Aide::Bien sûr, que puis-je faire pour vous ?
+Information::Quelle information recherchez-vous ?
+Où suis-je ?::Vous êtes ici pour obtenir de l'aide. Comment puis-je vous assister ?
+Pourquoi ?::Pouvez-vous préciser votre question, s'il vous plaît ?
+Comment ?::Pouvez-vous me donner plus de détails, s'il vous plaît ?
+Pardon::Ce n'est pas grave. Comment puis-je vous aider ?
+Besoin d'aide::D'accord, dites-moi en quoi je peux vous aider.
+Je ne sais pas::Pas de problème, je suis ici pour vous aider à trouver des réponses.
+Help::Sure, what can I do for you?
+Information::What information are you looking for?
+Where am I?::You are here to get help. How can I assist you?
+Why?::Can you please clarify your question?
+How?::Can you provide me with more details, please?
+Excuse me::It's okay. How can I assist you?
+How are you doing?::I'm doing well, thank you! And you?
+Need help::Alright, tell me how I can assist you.
+I don't know::No problem, I'm here to help you find the answers.
+Félicitations::Félicitations ! Comment puis-je vous aider à célébrer cela ?
+Bonne chance::Bonne chance ! Si vous avez besoin d'aide, je suis là.
+Joyeux anniversaire::Joyeux anniversaire ! Comment puis-je rendre votre journée encore plus spéciale ?
+Bon travail::Bon travail ! Avez-vous besoin d'aide pour autre chose ?
+Aidez-moi::Je suis là pour vous aider. Que puis-je faire pour vous ?
+Peut-on discuter ?::Bien sûr, de quoi voulez-vous discuter ?
+J'ai une question::Je suis là pour répondre à vos questions. Quelle est votre question ?
+C'est urgent::Je vais faire de mon mieux pour vous aider rapidement. Quel est le problème ?
+Bravo::Bravo ! Comment puis-je vous aider encore ?
+Congratulations::Congratulations! How can I help you celebrate?
+Good luck::Good luck! If you need any assistance, I'm here.
+Happy birthday::Happy birthday! How can I make your day even more special?
+Good job::Good job! Do you need help with anything else?
+Help me::I'm here to help you. What can I do for you?
+Can we chat?::Sure, what would you like to chat about?
+Can we talk?::Sure, what would you like to talk about?
+I have a question::I'm here to answer your questions. What's your question?
+It's urgent::I'll do my best to assist you quickly. What's the issue?
+Well done::Well done! How else can I assist you?
+Où puis-je trouver plus d'informations sur mes paiements ?::Vous pouvez trouver plus d'informations sur vos paiements en vous connectant à votre compte en ligne ou en nous appelant directement.
+Quels modes de paiement acceptez-vous ?::Nous acceptons divers modes de paiement, y compris les cartes de crédit, les virements bancaires et les paiements en ligne. Quel mode de paiement préférez-vous ?
+What payment methods do you accept?::We accept various payment methods, including credit cards, bank transfers, and online payments. Which payment method do you prefer?
+Comment puis-je mettre à jour mes informations de contact ?::Vous pouvez mettre à jour vos informations de contact en ligne ou en nous appelant directement.
+Y a-t-il des frais supplémentaires pour les paiements en retard ?::Oui, des frais supplémentaires peuvent s'appliquer pour les paiements en retard.
+Où puis-je trouver vos coordonnées ?::Vous pouvez trouver nos coordonnées sur notre site web ou en bas de chaque correspondance que nous vous envoyons.
+Puis-je payer en plusieurs fois ?::Oui, nous proposons des options de paiement échelonné. 
+J'ai des difficultés financières, que puis-je faire ?::Nous comprenons les difficultés financières. Contactez nous pour discuter des options de paiement adaptées à votre situation.
+Comment puis-je éviter des frais de recouvrement ?::Le meilleur moyen d'éviter des frais de recouvrement est de régler vos dettes à temps ou de nous contacter pour discuter des options de paiement.
+Comment vérifier l'état de ma dette ?::Vous pouvez vérifier l'état de votre dette en vous connectant à votre compte en ligne ou en nous appelant.
+What are the consequences of non-payment?::Non-payment can result in additional fees and collection actions. Let's discuss your options to avoid this.
+Can I pay in installments?::Yes, we offer installment payment options. Let's discuss the terms.
+Can I make a partial payment?::Yes, we accept partial payments. Let's discuss your payment options.
+I'm facing financial difficulties, what can I do?::We understand financial difficulties. Contact us to discuss payment options that suit your situation.
+Est-ce que des intérêts s'appliquent aux paiements en retard ?::Oui, des intérêts peuvent s'appliquer en cas de retard de paiement.
+Comment puis-je éviter les frais de retard ?::Vous pouvez éviter les frais de retard en effectuant vos paiements à temps.
+Wish you a good day::Merci ! Vous aussi ! Passez une bonne journée !
+Wish you a great day::Merci ! Vous aussi ! Passez une bonne journée !
+Great day::Merci ! Vous aussi ! Passez une bonne journée !
+Nice day::Merci ! Vous aussi ! Passez une bonne journée !
+Bon weekend::Merci ! Vous aussi ! Passez un bon week-end !
+Bon week-end::Merci ! Vous aussi ! Passez un bon week-end !
+Merci pour votre aide::De rien ! Je suis heureux de pouvoir vous aider.
+Merci beaucoup::De rien ! Comment puis-je vous aider d'autre ?
+Joyeux Noël::Joyeux Noël ! Passez de bonnes fêtes !
+Bonne année::Bonne année ! Tous nos vœux pour cette nouvelle année !
+Merry Christmas::Merry Christmas! Have a great holiday season!
+Happy New Year::Happy New Year! Best wishes for the new year!
+Thank you very much::You're welcome! How else can I assist you?
+Thank you for your help::You're welcome! I'm glad to help.
+Can you help me?::Of course, what can I do for you?
