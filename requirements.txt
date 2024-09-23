@@ -8,5 +8,6 @@ tf-keras
 fastapi
 uvicorn
 redis
+PyJWT
 cryptography
 python-dotenv
