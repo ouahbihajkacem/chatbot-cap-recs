@@ -8,11 +8,17 @@ from pydantic import BaseModel, ValidationError
 from collections import OrderedDict
 import re
 
+# Configurer le logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
 # Charger le modèle de transformers
 try:
     tokenizer = AutoTokenizer.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
     model = TFAutoModel.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
+    logger.info("Modèle de transformers chargé avec succès.")
 except Exception as e:
+    logger.error(f"Erreur lors du chargement du modèle de transformers: {e}")
     raise RuntimeError(f"Erreur lors du chargement du modèle de transformers: {e}")
 
 class UserVerification(BaseModel):
@@ -47,12 +53,14 @@ def verify_user(first_name, last_name, code_client, debtor_data):
         pd.DataFrame or None: Les informations de l'utilisateur si trouvées, sinon None.
     """
     try:
-        user = debtor_data[(debtor_data['prenom_debiteur'].str.lower() == first_name) &
-                           (debtor_data['nom_debiteur'].str.lower() == last_name) &
-                           (debtor_data['code_client'].astype(str) == code_client)]
+        user = debtor_data[
+            (debtor_data['prenom_debiteur'].str.lower() == first_name) &
+            (debtor_data['nom_debiteur'].str.lower() == last_name) &
+            (debtor_data['code_client'].astype(str) == code_client)
+        ]
         return user if not user.empty else None
     except Exception as e:
-        logging.error(f"Erreur lors de la vérification de l'utilisateur: {e}")
+        logger.error(f"Erreur lors de la vérification de l'utilisateur: {e}")
         return None
 
 class CAPRecouvrementChatBot:
@@ -79,6 +87,7 @@ class CAPRecouvrementChatBot:
         self.metadata = metadata
         self.memory = OrderedDict()  # Utilisation d'un OrderedDict pour LRU
         self.memory_limit = memory_limit
+        logger.info("CAPRecouvrementChatBot initialisé.")
 
     def manage_memory(self, user_key):
         """
@@ -89,10 +98,10 @@ class CAPRecouvrementChatBot:
         """
         if len(self.memory) >= self.memory_limit:
             oldest_user_key = next(iter(self.memory))
-            logging.info(f"Limite de mémoire atteinte, suppression de l'utilisateur le plus ancien: {oldest_user_key}")
+            logger.info(f"Limite de mémoire atteinte, suppression de l'utilisateur le plus ancien: {oldest_user_key}")
             self.memory.pop(oldest_user_key)
 
-    def get_response(self, user_input, first_name, last_name, code_client, debtor_data):
+    def get_response(self, user_input, first_name, last_name, code_client, session_id):
         """
         Génère une réponse du chatbot en fonction de l'entrée utilisateur.
 
@@ -101,7 +110,7 @@ class CAPRecouvrementChatBot:
             first_name (str): Prénom de l'utilisateur.
             last_name (str): Nom de l'utilisateur.
             code_client (str): Code client de l'utilisateur.
-            debtor_data (pd.DataFrame): Données des débiteurs.
+            session_id (str): ID de session de l'utilisateur.
 
         Returns:
             str: Réponse générée par le chatbot.
@@ -117,12 +126,12 @@ class CAPRecouvrementChatBot:
                     response = self.fill_template(response_template, self.memory[user_key], user_input)
                     return response
                 else:
-                    logging.warning("Aucun template de réponse trouvé pour l'entrée utilisateur.")
+                    logger.warning("Aucun template de réponse trouvé pour l'entrée utilisateur.")
                     return "Désolé, je ne suis pas en mesure de trouver une réponse appropriée."
             else:
                 return "Je ne trouve pas vos informations dans notre base de données."
         except Exception as e:
-            logging.error(f"Une erreur est survenue lors de la génération de la réponse: {e}")
+            logger.error(f"Une erreur est survenue lors de la génération de la réponse: {e}")
             return f"Une erreur est survenue lors de la génération de la réponse: {e}"
 
     def find_response_template(self, prompt):
@@ -146,7 +155,7 @@ class CAPRecouvrementChatBot:
             else:
                 return None
         except Exception as e:
-            logging.error(f"Erreur lors de la recherche du template de réponse: {e}")
+            logger.error(f"Erreur lors de la recherche du template de réponse: {e}")
             return None
    
     def fill_template(self, template, user, user_input):
@@ -188,8 +197,9 @@ class CAPRecouvrementChatBot:
                 response = "Au revoir ! Passez une bonne journée !"
             return response
         except Exception as e:
-            logging.error(f"Erreur lors du remplissage du template: {e}")
+            logger.error(f"Erreur lors du remplissage du template: {e}")
             return "Une erreur est survenue lors de la préparation de votre réponse."
 
 # Initialiser le chatbot
 cap_chatbot = CAPRecouvrementChatBot(vector_db, metadata)
+logger.info("Chatbot CAPRecouvrementChatBot initialisé.")
