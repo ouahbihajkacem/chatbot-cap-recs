@@ -87,6 +87,7 @@ class Message(BaseModel):
 class UserVerification(BaseModel):
     first_name: str
     last_name: str
+    code_client: str
 
 @app.post("/api/verify_user")
 async def verify_user(user: UserVerification):
@@ -95,14 +96,17 @@ async def verify_user(user: UserVerification):
     """
     first_name = user.first_name.strip().lower()
     last_name = user.last_name.strip().lower()
+    code_client = user.code_client.strip()
     user_data = debtor_data[(debtor_data['prenom_debiteur'].str.lower() == first_name) &
-                            (debtor_data['nom_debiteur'].str.lower() == last_name)]
+                            (debtor_data['nom_debiteur'].str.lower() == last_name) &
+                            (debtor_data['code_client'] == code_client)]
     if not user_data.empty:
         session_id = str(uuid4())
         session_data = get_session(session_id)
         session_data["user_verified"] = True
         session_data["first_name"] = first_name
         session_data["last_name"] = last_name
+        session_data["code_client"] = code_client
         save_session(session_id, session_data)
         return {"found": True, "session_id": session_id, "token": create_jwt_token(session_data)}
     else:
@@ -117,10 +121,12 @@ async def chat(message: Message, token: str = Depends(decode_jwt_token)):
     if session_data["user_verified"]:
         first_name = session_data["first_name"]
         last_name = session_data["last_name"]
+        code_client = session_data["code_client"]
         user = debtor_data[(debtor_data['prenom_debiteur'].str.lower() == first_name) &
-                           (debtor_data['nom_debiteur'].str.lower() == last_name)]
+                           (debtor_data['nom_debiteur'].str.lower() == last_name) &
+                           (debtor_data['code_client'] == code_client)]
         if not user.empty:
-            response = cap_chatbot.get_response(message.message, first_name, last_name, message.session_id, debtor_data)
+            response = cap_chatbot.get_response(message.message, first_name, last_name, code_client, message.session_id, debtor_data)
             session_data["history"].append({"user": message.message, "bot": response})
             save_session(message.session_id, session_data)
             return {"response": response, "session_id": message.session_id}
