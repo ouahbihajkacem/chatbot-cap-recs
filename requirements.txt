@@ -1,0 +1,12 @@
+pandas
+streamlit
+transformers
+faiss-cpu
+tensorflow
+openpyxl
+tf-keras
+fastapi
+uvicorn
+redis
+cryptography
+python-dotenv
